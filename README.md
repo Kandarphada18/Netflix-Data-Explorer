@@ -15,6 +15,6 @@ Pie charts for rating distributions
 
 Horizontal bar charts highlighting the top 10 countries by content volume
 
-The project concludes with a creative animated exit, using Matplotlib’s dynamic plotting features to display an engaging sine-wave animation that thanks the user — demonstrating both technical and creative coding skills.
+The project concludes with a creative animated exit, using  Matplotlib dynamic plotting features to display an engaging sine-wave animation that thanks the user — demonstrating both technical and creative coding skills.
 
 This project showcases core data analysis techniques and the ability to combine logic, visualization, and interactivity. It emphasizes practical implementation of Python libraries for real-world exploratory data analysis (EDA) and provides a foundation for expanding into machine learning applications such as recommendation systems or trend predictions.
