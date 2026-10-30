@@ -1,4 +1,4 @@
-# Netflix-movies-and-web-series-data-analysis-
+# Netflix Data Explorer
 The Netflix Data Visualization Project is an interactive Python-based analysis tool designed to explore insights from the Netflix titles dataset.
 The goal of this project is to understand patterns in Netflix’s content library — such as movie vs. TV show distribution, content ratings, release year trends, and country-wise availability — through data cleaning, processing, and visualization.
 
