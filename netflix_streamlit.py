@@ -1,7 +1,7 @@
 import streamlit as st  
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
+
 import time
 
 st.set_page_config(
@@ -55,6 +55,7 @@ c2.metric(f"Year Range",f"{np.min(release_year)}-{np.max(release_year)}")
 c3.metric(f"Average  Year",f"{np.mean(release_year):.2f}")
 c4.metric(f"Std Deviation",f"{np.std(release_year):.2f}")
 st.divider()
+import matplotlib.pyplot as plt
 # Show table — replaces ttk.Treeview
 
 
